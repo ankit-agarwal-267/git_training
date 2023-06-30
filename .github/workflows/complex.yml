@@ -1,4 +1,4 @@
-name: comple_workflow
+name: complex workflow
 on: push
 jobs:
   ubuntu:
